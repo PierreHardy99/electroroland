@@ -1,0 +1,1 @@
+<p>Inscrit avec succès<p>
