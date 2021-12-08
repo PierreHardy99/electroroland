@@ -1,5 +1,7 @@
 <?php 
 
+// Renaud est passé ici !
+
 require("config/electroroland/config.php");
 $dbh = new PDO($info,$user,$passwordDB);
 $dbh->exec("set names utf8");
